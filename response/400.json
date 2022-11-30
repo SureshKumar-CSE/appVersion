@@ -1,0 +1,5 @@
+{
+	"code": "400",
+	"message": "Failure",
+	"description": "App version can not be empty"
+}
